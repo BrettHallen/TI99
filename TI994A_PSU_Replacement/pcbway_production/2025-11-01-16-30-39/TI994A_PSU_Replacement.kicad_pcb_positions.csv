@@ -1,0 +1,13 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+126.0,-80.0,90.0,top,C1,,,C_Radial_D5.0mm_H5.0mm_P2.00mm,10µF 25V,tht
+115.0,-130.0,90.0,top,C3,,,C_Radial_D5.0mm_H5.0mm_P2.00mm,22µF 16V,tht
+108.0,-130.0,90.0,top,C4,,,C_Radial_D5.0mm_H5.0mm_P2.00mm,10µF 25V,tht
+101.0,-130.0,90.0,top,C5,,,C_Radial_D5.0mm_H5.0mm_P2.00mm,22µF 16V,tht
+110.0,-54.0,90.0,top,D1,,,LED_D5.0mm,Power LED,tht
+90.0,-124.0,180.0,top,J1,,,JST_VH_B2P-VH_1x02_P3.96mm_Vertical,Power In,tht
+100.12,-143.0,0.0,top,J2,,,JST_VH_B4P-VH_1x04_P3.96mm_Vertical,Power Out,tht
+92.54,-79.1,180.0,top,Q1,SUP53P06-20-E3,,TO254P465X1028X1931-3P,SUP53P06-20-E3,tht
+122.81,-52.0,180.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2.2KΩ,tht
+92.2471,-51.4331,180.0,top,SW1,,,SS-22G88-G090 DPDT,SW_Slide_DPDT,tht
+87.46,-104.775,0.0,top,U1,R-78CK5.0-0.5,,R78CK5005,R-78CK5.0-0.5,tht
+137.831,-97.38,-90.0,top,U2,,,DFR0831,DFR0831,tht

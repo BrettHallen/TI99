@@ -1,0 +1,11 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins,Height,Mouser Part Number,Mouser Price/Stock,Manufacturer_Name
+"C1, C4",2,10µF 25V,C_Radial_D5.0mm_H5.0mm_P2.00mm,,,,tht,Polarized capacitor,,,,,
+"C3, C5",2,22µF 16V,C_Radial_D5.0mm_H5.0mm_P2.00mm,,,,tht,Polarized capacitor,,,,,
+D1,1,Power LED,LED_D5.0mm,,,,tht,Light emitting diode,1=K 2=A,,,,
+J1,1,Power In,JST_VH_B2P-VH_1x02_P3.96mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",,,,,
+J2,1,Power Out,JST_VH_B4P-VH_1x04_P3.96mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",,,,,
+Q1,1,SUP53P06-20-E3,TO254P465X1028X1931-3P,,SUP53P06-20-E3,,tht,"VISHAY - SUP53P06-20-E3 - MOSFET, P, TO-220",,4.65,781-SUP53P06-20-E3,https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SUP53P06-20-E3?qs=ru2xu5lizsADXHLEpSNjJA%3D%3D,Vishay
+R1,1,2.2KΩ,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,,,,,
+SW1,1,SW_Slide_DPDT,SS-22G88-G090 DPDT,,,,tht,"Slide Switch, dual pole double throw",,,,,
+U1,1,R-78CK5.0-0.5,R78CK5005,,R-78CK5.0-0.5,,tht,0.5A DC/DC-Converter \'INNOLINE\' SIP3 reg,,10.7,,,RECOM Power
+U2,1,DFR0831,DFR0831,,,,tht,DC-DC Buck Converter,,,,,
