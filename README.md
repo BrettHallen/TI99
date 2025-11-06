@@ -10,6 +10,7 @@ Replaces the 99/4A's original dual-voltage 18VAC/7.5VAC power supply with a regu
 - DFRobot DFR0831 DC-DC Buck Converter (+5VDC supply)
 - Recom R-78CK5.0-0.5 Switching Regulator (-5VDC supply)
 - Vishay SUP53P06-20 MOSFET (protects against reverse polarity DC input)
+- G-Switch SS-22G88-G090 DPDT switch (need to trim a little)
 
 ## Original Designs
 - [Johnny Blanchard's original](https://codeberg.org/Jonn-reenthused/TI99-4A-dc-power-board)
@@ -18,3 +19,8 @@ Replaces the 99/4A's original dual-voltage 18VAC/7.5VAC power supply with a regu
 ## Status
 - 2-Nov-2025: Designed, not yet fabbed & tested, need to double-check switch position
 
+# [Joystick Adaptor](/JoystickAdaptor)
+Wanted to design my own joystick adaptor, so I did.
+
+![3D front view](/JoystickAdaptor/TI_994A_Joystick_Adaptor_Front_3D.png)
+![3D back view](/JoystickAdaptor/TI_994A_Joystick_Adaptor_Back_3D.png)
