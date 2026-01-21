@@ -1,0 +1,6 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+138.296387,-114.35,-90.0,top,J1,671-0801,,6710801,TI 99/4A Component,tht
+126.590387,-129.1455,0.0,top,J2,SJ3-350820B-TR,,SJ3350820BTR,Audio Out,tht
+119.096387,-89.25,0.0,top,J3,FC68371,,FC68371,Y,tht
+119.096387,-102.65,0.0,top,J4,FC68371,,FC68371,Pb (B-Y),tht
+119.096387,-116.05,0.0,top,J5,FC68371,,FC68371,Pr (R-Y),tht

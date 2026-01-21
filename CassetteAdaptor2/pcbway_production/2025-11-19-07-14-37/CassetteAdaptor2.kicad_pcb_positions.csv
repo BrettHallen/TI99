@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+96.945,-70.2,0.0,top,J1,,,DSUB-9_Pins_EdgeMount_P2.77mm,Cassette,smt
+88.68,-61.3,-90.0,top,J2,SJ3-350820B-TR,,SJ3350820BTR,CS1 EAR,tht
+99.68,-61.3,-90.0,top,J3,SJ3-350820B-TR,,SJ3350820BTR,CS1 MIC,tht

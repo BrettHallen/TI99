@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+104.0,-81.0,0.0,top,J1,FC68371,,FC68371,RCA Video,tht
+111.3,-94.32,0.0,top,J3,SJ3-350820B-TR,,SJ3350820BTR,Audio Out,tht
+124.5,-92.7,-90.0,top,J5,671-0801,,6710801,TI 99/4A Composite,tht
